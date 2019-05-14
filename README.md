@@ -1,4 +1,4 @@
 # TFe
 > Transcription Factor encyclopedia
 
-<p align="center"><img src="https://raw.githubusercontent.com/wassermanlab/TFe/master/.github/TFe.png" /></p>
+<p align="center"><img src="https://github.com/wassermanlab/TFe/blob/master/TFe.png" /></p>
