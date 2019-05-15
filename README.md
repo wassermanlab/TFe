@@ -10,4 +10,4 @@ Due to vulnerabilities in the old software, the **TFe is no longer available** a
 Yusuf D, *et al*. **The Transcription Factor Encyclopedia**. *Genome Biol.* 2012; **13**(3): R24. doi:[10.1186/gb-2012-13-3-r24](https://doi.org/10.1186/gb-2012-13-3-r24).
 
 ## Future efforts
-We make no promises, but we remain enthusiastic about shared community efforts. If the opportunity arises, we would be excited to develop a new edition that incorporates the archived information.
+We make no promises, but if the opportunity arises, we would be excited to develop a new version of TFe incorporating the archived information.
